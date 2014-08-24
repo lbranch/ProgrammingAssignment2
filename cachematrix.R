@@ -1,6 +1,7 @@
  
-## Author: Lonnell Branch
-##  
+## Collaborator: Lonnell Branch
+## Assignment 2
+## R Programming Class 
 
 ###  makeCacheMatrix function creates a matrix
 
