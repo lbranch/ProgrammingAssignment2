@@ -52,4 +52,5 @@ cacheSolve <- function(x=matrix(), ...) {
     m
 }  ## end cacheSolve 
 
-## Supporting
+### Supporting
+##
